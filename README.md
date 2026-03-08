@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://media.giphy.com/media/l0Iyoy5VglR6QKJiw/giphy.gif" width="100%" />
+</div>
+
 <h1 align="center">Hey 👋, I'm Ayush Pratap Singh</h1>
 <h3 align="center">Full-Stack Engineer • Frontend Specialist • Product Builder</h3>
 
@@ -9,107 +13,71 @@ Building modern web products at the intersection of <b>design, engineering, and 
 
 ## 👨‍💻 About Me
 
-I'm **Ayush Pratap Singh**, a full-stack engineer and frontend specialist based in India.
+I'm **Ayush Pratap Singh**, a full-stack engineer based in India.
 
-I focus on building **high-performance web products**, designing **scalable frontend architectures**, and translating complex ideas into **beautiful and intuitive user experiences**.
+I specialize in building **scalable web applications**, designing **modern frontend architectures**, and crafting **high-performance user experiences**. My work focuses on bridging the gap between **product thinking, design, and engineering**.
 
-I enjoy working where **design meets engineering** — crafting interfaces that are not only visually polished but also technically robust.
+I enjoy building products that sit at the intersection of:
 
-Currently I’m deeply focused on:
-
-- **Modern frontend architecture**
-- **AI powered platforms**
-- **Design systems**
-- **Real-time web applications**
-- **Scalable product interfaces**
+- AI powered platforms  
+- Real-time web applications  
+- Design systems  
+- Modern frontend architectures  
+- Developer-focused tooling  
 
 ---
 
-# 🚀 Experience & Major Projects
+## 🚀 Experience & Major Projects
 
-## 🎵 SongGPT — AI Music Generation Platform
+### 🎵 SongGPT
 
-SongGPT is an **AI-powered music generation and streaming platform** where users can generate full songs using artificial intelligence.
+**SongGPT** is an **AI-powered music generation and streaming platform** where users can generate full songs using artificial intelligence.
 
-As a **Frontend Engineer**, I played a key role in shaping the **core user experience and interface architecture**.
+As a **Frontend Engineer**, I worked on the frontend systems that power the interaction between users and the AI music generation engine.
 
-### My Contributions
-
-• Developed and optimized major parts of the **core frontend interface**
-
-• Built **interactive workflows** for AI music generation and playback
-
-• Implemented responsive UI components using **React and modern frontend tooling**
-
-• Collaborated closely with backend and AI teams to integrate **generation APIs, streaming logic, and state synchronization**
-
-• Focused heavily on **performance optimization** to ensure smooth generation, playback, and UI responsiveness
-
-• Contributed to **product design discussions**, helping bridge the gap between **engineering feasibility and user experience**
-
-The platform required careful coordination between **AI generation pipelines, media streaming, and frontend rendering**, making the UI layer a critical part of the overall system.
+🔗 **Live Platform:**  
+https://songgpt.com/
 
 ---
 
-## 🤖 Heoava — Context-Aware Personal AI Assistant
+### 🤖 Heyova
 
-Heoava is an **experimental personal AI assistant** designed to continuously capture context from a user's day and provide intelligent responses based on that accumulated context.
+**Heyova** is a **context-aware personal AI assistant** designed to continuously capture context from a user's day and provide intelligent responses based on that accumulated information.
 
-Unlike traditional assistants, Heoava is built around the idea of **persistent contextual awareness**.
+The assistant focuses on building a **persistent contextual layer** around user activity to enable smarter interactions with AI.
 
-### My Role
+**My Role**  
+Worked on the frontend layer responsible for presenting contextual interactions and AI responses to the user.
 
-I contributed to the **frontend system responsible for presenting contextual intelligence to the user**.
-
-### Key Work
-
-• Built interfaces that allowed users to **interact naturally with contextual AI responses**
-
-• Designed UI flows for **context capture, conversation history, and intelligent suggestions**
-
-• Implemented **real-time interaction layers** that allowed the assistant to respond dynamically
-
-• Helped design a **user experience that makes complex AI behavior feel simple and intuitive**
-
-Working on Heoava required thinking about **how humans interact with AI systems**, and designing interfaces that make AI feel **natural rather than technical**.
+🔗 **Live Platform:**  
+https://test.heyova.com/
 
 ---
 
-## 🎧 Bump FM — Financial Layer Between Artists & Fans
+### 🎧 Bump.fm
 
-Bump FM is a platform focused on **connecting artists, labels, and fans through a new financial layer for music engagement**.
+**Bump.fm** creates a **financial layer between artists and their fans**, enabling deeper engagement and direct monetization opportunities.
 
-The goal is to create a system where artists can build **direct financial relationships with their audience**, rather than relying solely on traditional streaming platforms.
+It focuses on strengthening the relationship between **artists, labels, and fan communities** through modern digital infrastructure.
 
-### My Contributions
-
-• Played a major role in building the **frontend product architecture**
-
-• Developed **core user interfaces for artist-fan interaction**
-
-• Built components that support **real-time engagement and financial interaction flows**
-
-• Worked on **scalable UI patterns** for dashboards, user interactions, and platform navigation
-
-• Collaborated across the team to ensure the frontend aligned with **product strategy and platform vision**
-
-The challenge here was designing interfaces that balance **financial systems, music culture, and community interaction**.
+🔗 **Live Platform:**  
+https://bump.fm/
 
 ---
 
-# 🧠 Current Focus
+## 🧠 Current Focus
 
 Currently exploring and building with:
 
-• **Supabase**
-• **Modern frontend architectures**
-• **Real-time web systems**
-• **AI-powered interfaces**
-• **Design systems**
+- Supabase  
+- AI-powered interfaces  
+- Real-time frontend systems  
+- Modern web architectures  
+- Scalable product UI systems  
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
 
@@ -127,7 +95,7 @@ Currently exploring and building with:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -143,19 +111,19 @@ Currently exploring and building with:
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://twitter.com/ayuxh_pratap">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+<a href="https://x.com/Reco_Who">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter"/>
 </a>
 
-<a href="https://ayuxh-pratap-singh.vercel.app">
+<a href="https://iayuxh.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:ayuaharshita14@gmail.com">
+<a href="mailto:ayuxhpratapsingh@gmail.com">
 <img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
 </a>
 
