@@ -1,33 +1,166 @@
-<h1 align="center">Hi 👋, I'm Ayush Pratap Singh</h1>
-<h3 align="center">A fullstack developer based in India</h3>
+<h1 align="center">Hey 👋, I'm Ayush Pratap Singh</h1>
+<h3 align="center">Full-Stack Engineer • Frontend Specialist • Product Builder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuxh-pratap&label=Profile%20views&color=0e75b6&style=flat" alt="ayuxh-pratap" /> </p>
+<p align="center">
+Building modern web products at the intersection of <b>design, engineering, and AI</b>.
+</p>
 
-<p align="left"> <a href="https://twitter.com/ayuxh_pratap" target="blank"><img src="https://img.shields.io/twitter/follow/ayuxh_pratap?logo=twitter&style=for-the-badge" alt="ayuxh_pratap" /></a> </p>
+---
 
-- 🔭 I’m currently working on [LogBlox](https://github.com/Ayuxh-Pratap/LogBlox)
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Supabase**
+I'm **Ayush Pratap Singh**, a full-stack engineer and frontend specialist based in India.
 
-- 👯 I’m looking to collaborate on [BloxUI](https://github.com/Ayuxh-Pratap/BloxUI-Home)
+I focus on building **high-performance web products**, designing **scalable frontend architectures**, and translating complex ideas into **beautiful and intuitive user experiences**.
 
-- 🤝 I’m looking for help with [ChatBlox](https://github.com/Ayuxh-Pratap/ChatBlox)
+I enjoy working where **design meets engineering** — crafting interfaces that are not only visually polished but also technically robust.
 
-- 👨‍💻 All of my projects are available at [https://ayuxh-pratap-singh.vercel.app/](https://ayuxh-pratap-singh.vercel.app/)
+Currently I’m deeply focused on:
 
-- 💬 Ask me about **React/Next**
+- **Modern frontend architecture**
+- **AI powered platforms**
+- **Design systems**
+- **Real-time web applications**
+- **Scalable product interfaces**
 
-- 📫 How to reach me **ayuaharshita14@gmail.com**
+---
 
-- ⚡ Fun fact **I know many facts that are funny**
+# 🚀 Experience & Major Projects
 
-<h3 align="left">Connect with me:</h3>
+## 🎵 SongGPT — AI Music Generation Platform
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+SongGPT is an **AI-powered music generation and streaming platform** where users can generate full songs using artificial intelligence.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuxh-pratap&show_icons=true&locale=en&layout=compact" alt="ayuxh-pratap" /></p>
+As a **Frontend Engineer**, I played a key role in shaping the **core user experience and interface architecture**.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayuxh-pratap&show_icons=true&locale=en" alt="ayuxh-pratap" /></p>
+### My Contributions
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayuxh-pratap&" alt="ayuxh-pratap" /></p>
+• Developed and optimized major parts of the **core frontend interface**
+
+• Built **interactive workflows** for AI music generation and playback
+
+• Implemented responsive UI components using **React and modern frontend tooling**
+
+• Collaborated closely with backend and AI teams to integrate **generation APIs, streaming logic, and state synchronization**
+
+• Focused heavily on **performance optimization** to ensure smooth generation, playback, and UI responsiveness
+
+• Contributed to **product design discussions**, helping bridge the gap between **engineering feasibility and user experience**
+
+The platform required careful coordination between **AI generation pipelines, media streaming, and frontend rendering**, making the UI layer a critical part of the overall system.
+
+---
+
+## 🤖 Heoava — Context-Aware Personal AI Assistant
+
+Heoava is an **experimental personal AI assistant** designed to continuously capture context from a user's day and provide intelligent responses based on that accumulated context.
+
+Unlike traditional assistants, Heoava is built around the idea of **persistent contextual awareness**.
+
+### My Role
+
+I contributed to the **frontend system responsible for presenting contextual intelligence to the user**.
+
+### Key Work
+
+• Built interfaces that allowed users to **interact naturally with contextual AI responses**
+
+• Designed UI flows for **context capture, conversation history, and intelligent suggestions**
+
+• Implemented **real-time interaction layers** that allowed the assistant to respond dynamically
+
+• Helped design a **user experience that makes complex AI behavior feel simple and intuitive**
+
+Working on Heoava required thinking about **how humans interact with AI systems**, and designing interfaces that make AI feel **natural rather than technical**.
+
+---
+
+## 🎧 Bump FM — Financial Layer Between Artists & Fans
+
+Bump FM is a platform focused on **connecting artists, labels, and fans through a new financial layer for music engagement**.
+
+The goal is to create a system where artists can build **direct financial relationships with their audience**, rather than relying solely on traditional streaming platforms.
+
+### My Contributions
+
+• Played a major role in building the **frontend product architecture**
+
+• Developed **core user interfaces for artist-fan interaction**
+
+• Built components that support **real-time engagement and financial interaction flows**
+
+• Worked on **scalable UI patterns** for dashboards, user interactions, and platform navigation
+
+• Collaborated across the team to ensure the frontend aligned with **product strategy and platform vision**
+
+The challenge here was designing interfaces that balance **financial systems, music culture, and community interaction**.
+
+---
+
+# 🧠 Current Focus
+
+Currently exploring and building with:
+
+• **Supabase**
+• **Modern frontend architectures**
+• **Real-time web systems**
+• **AI-powered interfaces**
+• **Design systems**
+
+---
+
+# 🛠 Tech Stack
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayuxh-pratap&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayuxh-pratap&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayuxh-pratap&theme=tokyonight" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://twitter.com/ayuxh_pratap">
+<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+</a>
+
+<a href="https://ayuxh-pratap-singh.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:ayuaharshita14@gmail.com">
+<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ *I enjoy building products that push the boundary between design, engineering, and intelligent systems.*
